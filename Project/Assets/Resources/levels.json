@@ -1,0 +1,21 @@
+{
+     "Level_1": [
+     	{"ZombieSpawner": [
+         	{"position":0, "time":10, "zombie":"Zombie"},
+         	{"position":2, "time":6, "zombie":"Zombie"},
+         	{"position":4, "time":4, "zombie":"Zombie"},
+            {"position":1, "time":10, "zombie":"ConeZombie"},
+            {"position":3, "time":6, "zombie":"Zombie"},
+            {"position":0, "time":10, "zombie":"BucketHeadZombie"},
+            {"position":2, "time":6, "zombie":"Zombie"},
+            {"position":4, "time":4, "zombie":"BucketHeadZombie"},
+            {"position":1, "time":10, "zombie":"ConeZombie"},
+            {"position":3, "time":6, "zombie":"BucketHeadZombie"}
+     	]},
+     	{"PlantsInDeck": [
+         	{"plant":"Sunflower"},
+         	{"plant":"PeaShooter"},
+         	{"plant":"Repeater"},
+     	]}
+     ]
+ }
